@@ -1,2 +1,2 @@
-# M-STAR-BUSINESS-ANDROID
-M-STAR BUSINESS Android App Build Project
+M-STAR-BUSINESS
+Official M-STAR BUSINESS Android App
